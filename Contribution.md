@@ -86,7 +86,7 @@
     Bio : Student
     GitHub URL :https://github.com/lognoroy
 
-4) Name : 
-   Place : 
-   Bio : 
-   GitHub URL :
+4) Name : Dilan Ranawaka
+   Place : Galle, Sri Lanka
+   Bio : Undergraduate
+   GitHub URL :https://github.com/DilanRanawaka
